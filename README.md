@@ -4,8 +4,6 @@ Mi nombre es Guillermo Diotti y soy un estudiante avanzado de la carrera Licenci
 
 ### Estadísticas de GitHub
 
-![Tus GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuillermoDiotti&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoDiotti&layout=compact&theme=radical)
 
 ### Tecnologías que uso
