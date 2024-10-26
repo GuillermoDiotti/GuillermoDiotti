@@ -24,7 +24,7 @@ Mi nombre es Guillermo Diotti y soy un estudiante avanzado de la carrera Licenci
 
 ### Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GuillermoDiotti-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/GuillermoDiotti/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GuillermoDiotti-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guillermo-diotti-481396254/)
 
 
 [![](https://visitcount.itsvg.in/api?id=GuillermoDiotti&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
