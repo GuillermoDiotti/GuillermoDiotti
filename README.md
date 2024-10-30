@@ -18,7 +18,7 @@ Mi nombre es Guillermo Diotti y soy un estudiante avanzado de la carrera Licenci
 
 ### Proyectos Destacados
 
-- [Ejercicios TAD](https://github.com/GuillermoDiotti/EjerciciosTAD) - Ejercicios de listas, filas, colas en C/C**.
+- [Ejercicios TAD](https://github.com/GuillermoDiotti/EjerciciosTAD) - Ejercicios de listas, filas, colas en C/C++.
 - [Control de Inventarios](https://github.com/GuillermoDiotti/ControlInventarios) - Aplicación en java realizada con ventanas gráficas.
 - [Juego Distancia](https://github.com/GuillermoDiotti/JuegoDistancia) - Juego similar al ajedrez realizado en la consola de java.
 - [Sistema de Ofertas](https://github.com/GuillermoDiotti/SistemaOfertas) - Página web relizada para el alta de empleados, ofertas, rubros --> Incluye desplegable
