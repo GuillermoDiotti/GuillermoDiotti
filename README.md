@@ -11,7 +11,6 @@ Mi nombre es Guillermo Diotti y soy un estudiante avanzado de la carrera Licenci
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-1E75C2?style=for-the-badge&logo=nuget&logoColor=white)
 ![Web API](https://img.shields.io/badge/Web_API-0288D1?style=for-the-badge&logo=webapi&logoColor=white)
