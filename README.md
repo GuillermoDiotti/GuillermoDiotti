@@ -6,7 +6,7 @@ Mi nombre es Guillermo Diotti y soy un estudiante avanzado de la carrera Licenci
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoDiotti&layout=compact&theme=radical)
 
-### Tecnologías que uso
+### Tecnologías familiarizadas
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
