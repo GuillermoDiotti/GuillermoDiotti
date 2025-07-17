@@ -19,6 +19,7 @@ Mi nombre es Guillermo Diotti y soy un estudiante avanzado de la carrera Licenci
 ### Proyectos Destacados
 
 - [API REST](https://github.com/GuillermoDiotti/Homify) - API REST para la gestión de dispositivos inteligentes en un hogar, con un frontend de Angular
+- [DataLake](https://github.com/GuillermoDiotti/NBA_DataLake) - Construcción de un DataLake sobre un conjunto de datos de la NBA
 - [Ejercicios TAD](https://github.com/GuillermoDiotti/EjerciciosTAD) - Ejercicios de listas, filas, colas en C/C++.
 - [Control de Inventarios](https://github.com/GuillermoDiotti/ControlInventarios) - Aplicación en java realizada con ventanas gráficas.
 - [Juego Distancia](https://github.com/GuillermoDiotti/JuegoDistancia) - Juego similar al ajedrez realizado en la consola de java.
