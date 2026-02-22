@@ -7,7 +7,6 @@ Mi nombre es Guillermo Diotti y soy un estudiante avanzado de la carrera Licenci
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoDiotti&layout=compact&theme=radical)
 
 ### Tecnologías familiarizadas
-
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,6 +17,7 @@ Mi nombre es Guillermo Diotti y soy un estudiante avanzado de la carrera Licenci
 
 ### Proyectos Destacados
 
+- ![REACT PAGE](https://github.com/GuillermoDiotti/my-cloud-react-page) - Pagine REACT institucional para proyecto de AWS y Terraform
 - [API REST](https://github.com/GuillermoDiotti/Homify) - API REST para la gestión de dispositivos inteligentes en un hogar, con un frontend de Angular
 - [DataLake](https://github.com/GuillermoDiotti/NBA_DataLake) - Construcción de un DataLake sobre un conjunto de datos de la NBA
 - [Ejercicios TAD](https://github.com/GuillermoDiotti/EjerciciosTAD) - Ejercicios de listas, filas, colas en C/C++.
